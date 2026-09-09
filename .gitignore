@@ -1,0 +1,4 @@
+# Intune Win32 build output. The .intunewin is an encrypted artifact that must
+# be rebuilt whenever uninstall.ps1 changes, so it is not tracked; see
+# intune/README.md for the IntuneWinAppUtil.exe command line.
+intune/output/
